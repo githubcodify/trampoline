@@ -1,0 +1,9 @@
+@media screen and (min-width: 1441px) {
+    .banner-item-01 {
+        padding: 346px 0px;
+        background-image: url(../../assets/images/banner-desktop.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+}

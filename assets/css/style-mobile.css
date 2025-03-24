@@ -1,0 +1,9 @@
+@media (max-width: 430px) {
+    .banner-item-01 {
+        padding: 130px 0px;
+        background-image: url(../../assets/images/banner-mobile.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+}
