@@ -7,3 +7,13 @@
         background-position: center center;
     }
 }
+
+@media screen and (min-width: 431px) and (max-width: 768px) {
+    .banner-item-01 {
+        padding: 152px 0px;
+        background-image: url(../../assets/images/homepage-banner.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+}

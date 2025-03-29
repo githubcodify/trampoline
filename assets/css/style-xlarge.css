@@ -1,3 +1,9 @@
-@media screen and (min-width: 1200px) and (max-width: 1440px) {
-
+@media screen and (min-width: 1025px) and (max-width: 1536px) {
+    .banner-item-01 {
+        padding: 300px 0px;
+        background-image: url(../../assets/images/homepage-banner.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
 }
